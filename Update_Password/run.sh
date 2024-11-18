@@ -1,1 +1,1 @@
-ansible-playbook -i inventory -l web_servers change_password.yml
+ansible-playbook -i inventory -l web_servers change-password.yml
